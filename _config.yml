@@ -1,0 +1,28 @@
+name: tommyvaughan
+favicon: null
+layout_spectrum: 0.8197575903031975
+typography_spectrum: 0.1323220576159656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7560785056557506
+  lightness: 0.03255189675837755
+  saturation: 0.030367580242455006
+  rhythmicContrast: 0.48973470623604953
+purpose: []
